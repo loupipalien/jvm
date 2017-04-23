@@ -1,4 +1,4 @@
-package com.ltchen.java.jvm;
+package com.ltchen.java.jvm.two;
 
 import java.util.ArrayList;
 import java.util.List;
